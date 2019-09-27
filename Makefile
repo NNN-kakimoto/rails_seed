@@ -10,4 +10,4 @@ ps:
 rsh:
 	docker-compose run rails bash
 dbsh:
-	docker-compoe run db bash
+	docker-compose run db bash
